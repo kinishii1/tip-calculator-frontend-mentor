@@ -18,9 +18,6 @@ Users should be able to:
 
 ![](https://github.com/kinishii1/tip-calculator-frontend-mentor/blob/main/tip%20calculator.gif)
 
-### Links
-
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://kinishii1.github.io/tip-calculator-frontend-mentor/))
 
 ## My process
 
