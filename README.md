@@ -14,7 +14,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/kinishii1/tip-calculator-frontend-mentor/blob/main/tip%20calculator.gif)
 
 ### Links
 
